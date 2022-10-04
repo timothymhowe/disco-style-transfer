@@ -8,3 +8,6 @@ Example of such a portrait:![portrait](https://user-images.githubusercontent.com
 
 ### Image Transformation GAN:
   Description goes here.
+  
+ ### Resources:
+  - https://medium.com/bubblegan/siamesedcgan-with-embedding-layers-and-contrastive-loss-9e3f6c1f906e
